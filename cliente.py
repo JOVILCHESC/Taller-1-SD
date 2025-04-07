@@ -5,7 +5,7 @@ from tkinter import scrolledtext, messagebox, simpledialog, Menu, filedialog, tt
 import os
 import time
 import datetime
-#me dice ola yo le digo goodbye
+
 class ChatApp:
     def __init__(self, root):
         #Inicializa la aplicación y configura la interfaz gráfica y los socket.
